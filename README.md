@@ -1,1 +1,3 @@
-# hho
+This repository contains the code for the paper "Reconsidering the Harris' Hawks Optimization Algorithm" by Kemal Ilgar Eroğlu. The scripts `test.py`, `test2.py` and `test3.py` compares HHO against RHO, while `testn.py` displays the results for NHO. The script `testn.py` is to generate Figures 2 and 3.
+
+The benchmark functions from the original HHO article (see code comments for the links) and their modified versions are in the files `benchmarks_*.py`.
